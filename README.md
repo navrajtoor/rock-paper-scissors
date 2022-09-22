@@ -1,1 +1,2 @@
 # rock-paper-scissors
+This is a program that simulates a rock paper scissors game between a player and a computer. The computers choice comes from the math library (floor and random) and the players choice comes from a prompt where they enter in their answer. This game is currently played entirely within the console. In the future I will be adding a GUI.
